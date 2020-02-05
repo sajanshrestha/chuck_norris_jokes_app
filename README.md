@@ -7,3 +7,5 @@ You get to read different chuck norris jokes for different categories like polit
   
   
    From iOS side, i used URLSessions to communicate with the server and getting the json response back which I converted to my swift 'Joke' struct using Codable.
+
+<img src="images/delete_liked.png" height=100, width=100>
