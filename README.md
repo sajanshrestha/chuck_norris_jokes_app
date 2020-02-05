@@ -24,5 +24,5 @@ You get to read different chuck norris jokes for different categories like polit
 
 <img src="images/delete_liked.png" height=350, width=200>
 
-<h3>I also have my Flask source code in different repository.<\h3>
+<h3>I also have my Flask source code in different repository.</h3>
 
