@@ -8,18 +8,21 @@ You get to read different chuck norris jokes for different categories like polit
   
    From iOS side, i used URLSessions to communicate with the server and getting the json response back which I converted to my swift 'Joke' struct using Codable.
 
-User can sign up using entering a username. The user will be asked to sign up or log in just once in order to create a user in the database to keep track of all the liked jokes. In future, when user comes back to the back, the user will be validated using UserDefaults.
+<p>User can sign up using entering a username. The user will be asked to sign up or log in just once in order to create a user in the database to keep track of all the liked jokes. In future, when user comes back to the back, the user will be validated using UserDefaults.</p>
+
 <img src="images/sign_up.png" height=350, width=200>
 
+<p>The user can choose any category from the picker. And a random joke from that category will be displayed which the user can like and save it for future.</p>
 
-The user can choose any category from the picker. And a random joke from that category will be displayed which the user can like and save it for future.
 <img src="images/home.png" height=350, width=200>
 
+<p>Shows the liked jokes of the users.</p>
 
-Shows the liked jokes of the users.
 <img src="images/liked.png" height=350, width=200>
 
-Can delete the joke! from the view and from the database as well!
+<p>Can delete the joke! from the view and from the database as well!</p>
+
 <img src="images/delete_liked.png" height=350, width=200>
 
-I also have my Flask source code in different repository.
+<h3>I also have my Flask source code in different repository.<\h3>
+
